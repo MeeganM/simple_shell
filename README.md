@@ -38,9 +38,9 @@ Brief description of every file in this repository. Subject to change.
 
 File Name               	Description
 
-memo01.c	               Memory handling source code
-memo.h	                       Memory handling header file
-README.md	               This file that you are reading
+memo01.c             Memory handling source code
+memo.h	             Memory handling header file
+README.md	     This file that you are reading
 
 AUTHORS
         
